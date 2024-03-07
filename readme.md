@@ -23,5 +23,3 @@ To run the TCP client and server scripts, follow these steps:
 2. Run the server script using the command `python tcp_server.py`.
 3. Open another terminal window and navigate to the `TCP` directory.
 4. Run the client script using the command `python tcp_client.py`.
-
-Note: These scripts are for educational purposes only and should not be used in production environments without proper testing and security measures.
